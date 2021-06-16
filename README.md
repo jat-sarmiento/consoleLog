@@ -1,0 +1,2 @@
+# consoleLog
+console
